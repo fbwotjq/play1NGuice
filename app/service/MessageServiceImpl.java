@@ -9,7 +9,7 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * Created by KAKAO on 2016. 10. 13..
+ * Created by fbwotjq on 2016. 10. 13..
  */
 public class MessageServiceImpl implements MessageService {
 

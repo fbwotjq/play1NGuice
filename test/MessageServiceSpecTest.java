@@ -19,7 +19,7 @@ import javax.inject.Inject;
 import java.util.Date;
 
 /**
- * Created by KAKAO on 2016. 10. 17..
+ * Created by fbwotjq on 2016. 10. 17..
  */
 public class MessageServiceSpecTest extends FunctionalTest {
 

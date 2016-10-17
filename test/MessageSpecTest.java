@@ -7,7 +7,7 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * Created by KAKAO on 2016. 10. 17..
+ * Created by fbwotjq on 2016. 10. 17..
  */
 public class MessageSpecTest extends FunctionalTest {
 

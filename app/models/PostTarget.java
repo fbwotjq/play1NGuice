@@ -10,7 +10,7 @@ import javax.persistence.Id;
 import java.util.Date;
 
 /**
- * Created by KAKAO on 2016. 10. 15..
+ * Created by fbwotjq on 2016. 10. 15..
  */
 @Entity
 public class PostTarget extends GenericModel {

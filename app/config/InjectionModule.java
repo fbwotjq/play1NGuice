@@ -5,7 +5,7 @@ import service.MessageService;
 import service.MessageServiceImpl;
 
 /**
- * Created by KAKAO on 2016. 10. 17..
+ * Created by fbwotjq on 2016. 10. 17..
  */
 public class InjectionModule extends AbstractModule {
 
