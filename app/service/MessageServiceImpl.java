@@ -48,9 +48,6 @@ public class MessageServiceImpl implements MessageService {
     @Override
     public void addPostNoTransaction(PostTarget post) {
 
-        /*play.Play.plugin(JPAPlugin.class).startTx(true);
-        post.save();
-        play.Play.plugin(JPAPlugin.class).closeTx(false);*/
         try {
             post.saveTransaction();
         } catch (Exception e) {
@@ -61,7 +58,7 @@ public class MessageServiceImpl implements MessageService {
     @Override
     public void addPostNoTransactionA() {
         PostTarget postTarget = new PostTarget();
-        postTarget.id = 1000101;
+        postTarget.id = 100010123;
         postTarget.content = "sdfds";
         postTarget.dateCreated = new Date();
         try {

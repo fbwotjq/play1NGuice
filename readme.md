@@ -1,0 +1,1 @@
+ - play 1.x + guice integration + testcase 예제 프로젝트
